@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730741863338",
+    "project_id": "finaltuktuk",
+    "storage_bucket": "finaltuktuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730741863338:android:1d47dfb8eb60dee4a1f1d3",
+        "android_client_info": {
+          "package_name": "com.example.toktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730741863338-76ehkdiqq5j9eoq30h4806abmjatl3vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toktok",
+            "certificate_hash": "aedaeb014cb249bd6684215a8a8fc389a815fdd9"
+          }
+        },
+        {
+          "client_id": "730741863338-ojlmm3kenr12lqup6l4qdmkf9675tc6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-pG2Nu_uEqL9c5XZjCSsWm9ydA75UyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730741863338-ojlmm3kenr12lqup6l4qdmkf9675tc6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
